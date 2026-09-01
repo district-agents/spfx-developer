@@ -1,4 +1,5 @@
 # spfx-developer
+[![skills.sh](https://skills.sh/b/district-agents/spfx-developer)](https://skills.sh/district-agents/spfx-developer)
 
 An AI-agent **skill** for developing, debugging, packaging, and deploying [SharePoint Framework (SPFx)](https://learn.microsoft.com/en-us/sharepoint/dev/spfx/sharepoint-framework-overview) solutions — web parts, all five extension types, Viva Connections Adaptive Card Extensions, Copilot Apps, and Teams/Outlook/Office apps built on SPFx.
 

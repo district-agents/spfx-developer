@@ -1,6 +1,6 @@
 # spfx-developer
 
-A Claude/AI-agent **skill** for developing, debugging, packaging, and deploying [SharePoint Framework (SPFx)](https://learn.microsoft.com/en-us/sharepoint/dev/spfx/sharepoint-framework-overview) solutions — web parts, all five extension types, Viva Connections Adaptive Card Extensions, Copilot Apps, and Teams/Outlook/Office apps built on SPFx.
+An AI-agent **skill** for developing, debugging, packaging, and deploying [SharePoint Framework (SPFx)](https://learn.microsoft.com/en-us/sharepoint/dev/spfx/sharepoint-framework-overview) solutions — web parts, all five extension types, Viva Connections Adaptive Card Extensions, Copilot Apps, and Teams/Outlook/Office apps built on SPFx.
 
 It bakes in an opinionated, current stack:
 - **[PnPjs](https://pnp.github.io/pnpjs/) (`@pnp/sp` / `@pnp/graph`) v4** for SharePoint and Microsoft Graph data access

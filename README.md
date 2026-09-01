@@ -10,6 +10,12 @@ It bakes in an opinionated, current stack:
 
 so an agent reaches for these by default instead of hand-rolling REST calls or rebuilding common controls from scratch.
 
+## Install
+
+```bash
+npx skills add district-agents/spfx-developer
+```
+
 ## Why this exists
 
 General-purpose AI agents tend to give stale or blended SPFx guidance — mixing the legacy Gulp toolchain with the current Heft one, mixing PnPjs v3 and v4 syntax, or not knowing the PnP community controls exist at all. This skill is a curated, current reference distilled from the primary sources so an agent gives version-correct, idiomatic answers instead.
